@@ -20,6 +20,11 @@
 
 ![超市收银系统分析图](https://gitee.com/ShaoxiongDu/imageBed/raw/master/%E8%B6%85%E5%B8%82%E6%94%B6%E9%93%B6%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E5%9B%BE.png)
 
+> - 控制层负责控制台的用户交互部分
+>
+> - 业务层负责具体的业务处理
+> - 数据层由于还没有学习到数据库，因此用一个全局的HashMap来充当数据库。通过各个业务名作为key获取对应的List数据。
+
 <html>
 <center> <a href="http://assets.processon.com/chart_image/613ff3df7d9c081bd8011e4b.png">系统设计图在线地址</a></center>
 </html>
