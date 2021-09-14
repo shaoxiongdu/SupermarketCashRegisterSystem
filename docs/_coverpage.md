@@ -10,4 +10,4 @@
   - 
 
 [GitHub](https://github.com/shaoxiongdu/SupermarketCashRegisterSystem)
-[快速开始](/?id=一、模块架构图)
+[快速开始](/?id=title)
