@@ -1,8 +1,8 @@
 ## 超市收银管理系统
 
-> JavaSE阶段项目
+> 📚📚📚我在维信培训的JavaSE阶段的答辩项目
 
-## 一、 模块架构图
+## 一、模块架构图
 
 ![收银管理系统](https://gitee.com/ShaoxiongDu/imageBed/raw/master/%E6%94%B6%E9%93%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.png)
 
@@ -64,4 +64,6 @@
 
 [系统设计图在线地址](http://assets.processon.com/chart_image/613ff3df7d9c081bd8011e4b.png)
 
+## 四、开源许可证
 
+在 MIT 许可下分发。有关更多信息，请参阅[`LICENSE`](./LICENSE)。

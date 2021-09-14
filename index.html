@@ -9,14 +9,28 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: '',
-      repo: ''
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<div id="app">
+  <nav>
+    <a href="https://shaoxiongdu.cn" target="_blank">作者博客</a>
+    <a href="/#thePublic.md">更多开源项目</a>
+    <a href="/">超市收银管理系统</a>
+  </nav>
+</div>
+<script>
+  window.$docsify = {
+    formatUpdated: '{MM}/{DD} {HH}:{mm}',
+    mergeNavbar: true,
+    maxLevel: 3,
+    coverpage: true,
+    auto2top: true,
+    loadNavbar: true,
+    subMaxLevel: 2,
+    name: '维信阶段项目之超市管理系统',
+    repo: 'https://github.com/shaoxiongdu/SupermarketCashRegisterSystem',
+    nameLink: 'https://github.com/shaoxiongdu/SupermarketCashRegisterSystem',
+  }
+</script>
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
