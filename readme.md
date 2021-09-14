@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/收银员管理-模块-green"/>
     <img src="https://img.shields.io/badge/日志管理-模块-orange"/>
 </center>
-</html>
+</html> 
 
 ## 一、模块架构图
 
